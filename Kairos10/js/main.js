@@ -9,7 +9,7 @@
     
     var cfg = {
         scrollDuration : 800, // smoothscroll duration
-        mailChimpURL   : 'https://facebook.us8.list-manage.com/subscribe/post?u=cdb7b577e41181934ed6a6a44&amp;id=e6957d85dc'   // mailchimp url
+        mailChimpURL   : 'https://surge.us20.list-manage.com/subscribe/post?u=a8a672ee47546df250bfc602d&amp;id=c663f20c8a'   // mailchimp url
     },
 
     $WIN = $(window);
@@ -282,7 +282,7 @@
 
         $.ajaxChimp.translations.es = {
             'submit': 'Submitting...',
-            0: '<i class="fas fa-check"></i> We have sent you a confirmation email',
+            0: '<i class="fas fa-check"></i> You\'re all signed up!',
             1: '<i class="fas fa-exclamation-triangle"></i> You must enter a valid e-mail address.',
             2: '<i class="fas fa-exclamation-triangle"></i> E-mail address is not valid.',
             3: '<i class="fas fa-exclamation-triangle"></i> E-mail address is not valid.',
